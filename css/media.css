@@ -1,0 +1,458 @@
+@media (min-width: 992px) and (max-width: 1199px){
+    .banner-bar2{
+        width: 215px;
+    }
+    .banner-bar{
+        width: 215px;
+    }
+    .banner-inner{
+        width: 100%;
+    }
+    .social-media{
+        left: 15%;
+    }
+    .logoteam-inner{
+        flex-wrap: nowrap;
+    }
+    .logo-box a img{
+        width: 100%;
+    }
+    .design{
+        top: 31%;
+    }
+    .calendar{
+        top: 22%;
+    }
+    .blog-content p{
+        font-size: 13px;
+    }
+    .form-btn{
+        right: 0px;
+        bottom: 14px;
+    }
+    .footer-frame{
+        margin-right: -8px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    .menu li {
+        padding: 0 40px 0 0;
+    }
+    .banner-inner {
+        width: 100%;
+    }
+    .banner h1{
+        font-size: 130px;
+    }
+    .banner-bar2{
+        width: 150px;
+    }
+    .banner-bar{
+        width: 160px;
+    }
+    .service-pic img{
+        width: 100%;
+    }
+    .card-body {
+        font-size: 12px;
+        color: #999999;
+        line-height: 24px;
+    }
+    .btn-link{
+        font-size: 12px;
+    }
+    .social-media li a{
+        padding: 10px;
+    }
+    .social-media .twit a {
+        padding: 11px;
+    }
+    .social-media{
+        left: 9%;
+    }
+    .logoteam-inner{
+        flex-wrap: nowrap;
+    }
+    .logo-box a img{
+        width: 100%;
+    }
+    .work-top p{
+        font-size: 12px;
+    }
+    .design a{
+        font-size: 12px;
+    }
+    .design p{
+        font-size: 12px;
+    }
+    .design{
+        top: 28%;
+    }
+    .joshua-content-inner p {
+        font-size: 16px;
+        color: #999999;
+        line-height: 28px;
+    }
+    .people-content p {
+        font-size: 12px;
+        color: #999999;
+        line-height: 24px;
+    }
+    .calendar h1{
+        font-size: 24px;
+    }
+    .calendar h2{
+        font-size: 18px;
+    }
+    .calendar{
+        width: 23%;
+        top: 13%;
+    }
+    .blog-content h1{
+        font-size: 13px;
+    }
+    .footer-blog p{
+        font-size: 12px;
+        line-height: 24px;
+    }
+    .footer-menu li{
+        padding-left: 5px;
+    }
+    .footer-menu{
+        margin-left: 7px;
+    }
+    .input-field input{
+        font-size: 12px;
+    }
+    .form-btn {
+        position: absolute;
+        right: -10px;
+        bottom: 13%;
+    }
+    .form-btn a {
+        font-size: 12px;
+    }
+    .footer-block p{
+        font-size: 10px;
+    }
+    .footer-frame img{
+        width: 100%;
+    }
+    .footer-frame{
+        margin-right: 0px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px){
+    .header{
+        flex-direction: column;
+        text-align: center;
+    }
+    .menu{
+        flex-direction: column;
+    }
+    .menu li{
+        padding: 0 0 30px 0;
+    }
+    .logo{
+        margin: 0 0 50px 0;
+    }
+    .banner-inner{
+        width: 100%;
+    }
+    .banner h1{
+        font-size: 100px;
+    }
+    .banner h2{
+        font-size: 58px;
+    }
+    .banner-bar{
+        width: 110px;
+    }
+    .banner-bar2{
+        width: 110px;
+    }
+    .banner-box span{
+        font-size: 16px;
+    }
+
+    .story-bottom{
+        flex-direction: column;
+    }
+    .story-box{
+        margin-bottom: 50px;
+    }
+    .project-inner{
+        flex-direction: column;
+    }
+    .amazing-bottom{
+        flex-direction: column;
+    }
+    .border{
+        bottom: 55%;
+    }
+    .tab-pic img{
+        width: 100%;
+    }
+    .service-bottom{
+        flex-direction: column;
+    }
+    .service-pic img{
+        width: 100%;
+    }
+    .jon-content-inner p{
+        font-size: 11px;
+        line-height: 23px;
+    }
+    .jon-blog a{
+        font-size: 22px;
+    }
+    .team-bottom{
+        flex-direction: column;
+    }
+    .team-box-inner{
+        flex-direction: column;
+    }
+    .social-media{
+        left: 30%;
+    }
+    .logoteam-inner{
+        flex-direction: column;
+        text-align: center;
+    }
+    .logo-box{
+        margin-bottom: 50px;
+    }
+    .work-top{
+        width: 100%;
+    }
+    .work-bottom{
+        flex-direction: column;
+    }
+    .work-box{
+        width: 100%;
+    }
+    .joshua-content-inner{
+        width: 100%;
+    }
+    .joshua-content-inner p{
+        font-size: 12px;
+        line-height: 24px;
+    }
+    .cmt-box{
+        padding-right: 20px;
+        margin-top: 30px;
+    }
+    .cmt-box img{
+        width: 100%;
+    }
+    .joshua-content{
+        padding-left: 30px;
+    }
+    .people-bottom{
+        flex-direction: column;
+    }
+    .blog-bottom{
+        flex-direction: column;
+    }
+    .calendar{
+        width: 12%;
+        top: 45%;
+    }
+    .footer-inner{
+        flex-direction: column;
+    }
+    .form-btn{
+        right: 96px;
+        bottom: 0px;
+    }
+    .footer-box{
+        margin: 0 0 40px 0;
+    }
+    .footer-frame img{
+        width: 100%;
+        
+    }
+    .footer-frame{
+        margin-right: 0px;
+    }
+    .project-box {
+        width: 100%;
+    }
+    .counter-up {
+        flex-direction: column;
+    }
+}
+@media (min-width: 320px) and (max-width: 575px){
+    .header{
+        flex-direction: column;
+        text-align: center;
+    }
+    .menu{
+        flex-direction: column;
+    }
+    .menu li{
+        padding: 0 0 30px 0;
+    }
+    
+    .banner-inner{
+        width: 100%;
+    }
+    .banner-block{
+        flex-direction: column;
+    }
+    .banner h1{
+        font-size: 58px;
+    }
+    .banner h2{
+        font-size: 33px;
+    }
+    .banner-bar{
+        width: 100%;
+    }
+    .banner-bar2{
+        width: 100%;
+    }
+    .story-top p{
+        font-size: 11px;
+    }
+    .story-bottom{
+        flex-direction: column;
+    }
+    .story-box{
+        margin-bottom: 50px;
+    }
+    .project-inner{
+        flex-direction: column;
+    }
+    .amazing-bottom{
+        flex-direction: column;
+    }
+    .amazing-box{
+        flex-direction: column;
+        text-align: center;
+    }
+    .amazing-icon{
+        padding: 0 0 30px 0;
+    }
+    .border{
+        bottom: 55%;
+    }
+    .tab-pic img{
+        width: 100%;
+    }
+    .service-top p{
+        font-size: 11px;
+    }
+    .card-body{
+        font-size: 11px;
+        line-height: 23px;
+    }
+    .btn-link{
+        font-size: 12px;
+    }
+    .service-bottom{
+        flex-direction: column;
+    }
+    .service-pic img{
+        width: 100%;
+    }
+    .jon-content-inner p{
+        font-size: 11px;
+        line-height: 23px;
+    }
+    .jon-blog a{
+        font-size: 20px;
+    }
+    .team-top p{
+        font-size: 11px;
+        line-height: 23px;
+    }
+    .team-bottom{
+        flex-direction: column;
+    }
+    .team-box-inner{
+        flex-direction: column;
+    }
+    .social-media{
+        left: 12%;
+    }
+    .logoteam-inner{
+        flex-direction: column;
+        text-align: center;
+    }
+    .logo-box{
+        margin-bottom: 50px;
+    }
+    .work-top{
+        width: 100%;
+    }
+    .work-top p{
+        font-size: 12px;
+        line-height: 24px;
+    }
+    .work-bottom{
+        flex-direction: column;
+    }
+    .work-box{
+        width: 100%;
+    }
+    .joshua-content-inner{
+        width: 100%;
+    }
+    .joshua-content-inner p{
+        font-size: 10px;
+        line-height: 22px;
+    }
+    .joshua-blog a{
+        font-size: 20px;
+    }
+    .cmt-box{
+        padding-right: 20px;
+        margin-top: 60px;
+    }
+    .cmt-box img{
+        width: 100%;
+    }
+    .joshua-content{
+        padding-left: 30px;
+    }
+    .people-bottom{
+        flex-direction: column;
+    }
+    .people-content p{
+        font-size: 10px;
+    }
+    .people-pic img{
+        width: 100%;
+    }
+    .blog-bottom{
+        flex-direction: column;
+    }
+    .calendar{
+        width: 22%;
+        top: 20%;
+    }
+    .footer-inner{
+        flex-direction: column;
+    }
+    .form-btn{
+        right: 10px;
+        bottom: 0px;
+    }
+    .footer-media h3{
+        font-size: 13px;
+    }
+    .footer-box{
+        margin: 0 0 40px 0;
+    }
+    .footer-frame{
+        margin-right: -2px;
+    }
+    .project-box {
+        width: 100%;
+    }
+    .counter-up {
+        flex-direction: column;
+    }
+}
